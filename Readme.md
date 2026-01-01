@@ -86,30 +86,34 @@
 
 <p align="center">
   <a href="https://github.com/ShivamSonawane2003/RAG-Based-Document-QA-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=RAG-Based-Document-QA-System&theme=github_dark" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=RAG-Based-Document-QA-System&theme=github_dark&hide_border=true"
+      alt="RAG Document Q&A System"
+    />
   </a>
   <a href="https://github.com/ShivamSonawane2003/Superlative-Classification-Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=Superlative-Classification-Model&theme=github_dark" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=Superlative-Classification-Model&theme=github_dark&hide_border=true"
+      alt="Superlative Classification Model"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ShivamSonawane2003/Online_Course_Recommendation_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=Online_Course_Recommendation_System&theme=github_dark" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=Online_Course_Recommendation_System&theme=github_dark&hide_border=true"
+      alt="Online Course Recommendation System"
+    />
   </a>
   <a href="https://github.com/ShivamSonawane2003/Predictive-Maintenance-for-HVAC-Pumps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=Predictive-Maintenance-for-HVAC-Pumps&theme=github_dark" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=Predictive-Maintenance-for-HVAC-Pumps&theme=github_dark&hide_border=true"
+      alt="Predictive Maintenance for HVAC Pumps"
+    />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ShivamSonawane2003/Bar-Consumption-Forecasting-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=Bar-Consumption-Forecasting-App&theme=github_dark" />
-  </a>
-  <a href="https://github.com/ShivamSonawane2003/ExcelR-Assigiments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=ExcelR-Assigiments&theme=github_dark" />
-  </a>
-</p>
 
 
 ---
