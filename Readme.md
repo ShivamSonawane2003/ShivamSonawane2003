@@ -12,19 +12,10 @@
 
 ## 🧑‍💻 Profile Overview
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ShivamSonawane2003&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamSonawane2003&show_icons=true&theme=github_dark&hide_border=true)
 
-<p align="center">
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=ShivamSonawane2003&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ShivamSonawane2003&theme=github_dark&hide_border=true)
+
 
 ---
 
@@ -41,12 +32,8 @@
 
 ## 🧠 Languages & Tech Usage
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSonawane2003&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSonawane2003&layout=compact&theme=github_dark&hide_border=true)
+
 
 ---
 
