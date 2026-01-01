@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey Everyone, I'm Shivam</h1>
-<h3 align="center">🚀 Data Analyst | Data Scientist | Machine Learning | Generative AI</h3>
+<h3 align="center"> Data Analyst | Data Scientist | Machine Learning | Generative AI</h3>
 
 <p align="center">
   <img 
