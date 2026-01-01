@@ -19,10 +19,13 @@
 
 ---
 
-## 🧠 Languages & Tech Usage
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSonawane2003&layout=compact&theme=github_dark&hide_border=true" width="60%" />
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,flask,tensorflow,pytorch,sklearn,opencv,mysql,sqlite,docker,git,github,js,html,css,gcp"
+    alt="Tech Stack Icons"
+  />
 </p>
 
 ---
@@ -33,17 +36,6 @@
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamSonawane2003&theme=tokyo-night&hide_border=true"
     alt="Contribution Graph"
-  />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,fastapi,flask,tensorflow,pytorch,sklearn,opencv,mysql,sqlite,docker,git,github,js,html,css,gcp"
-    alt="Tech Stack Icons"
   />
 </p>
 
@@ -75,13 +67,13 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
-- 🔭 Working on **RAG-based AI systems**
-- 📊 Building **end-to-end Data Science & ML pipelines**
-- 🤖 Experience with **Generative AI, NLP, OCR & embeddings**
-- 🌱 Learning **Agentic AI, MLOps & Cloud (AWS/GCP basics)**
-- 🤝 Open to **collaborations & internships**
+-  Working on **RAG-based AI systems And AI Agents**
+-  Building **end-to-end Data Science & ML pipelines**
+-  Experience with **Generative AI, NLP, OCR & embeddings**
+-  Learning **Agentic AI, MLOps & Cloud (AWS/GCP basics)**
+-  Open to **collaborations & internships**
 
 ---
 
@@ -103,7 +95,3 @@
 </p>
 
 ---
-
-<p align="center">
-✨ Designed like a GitHub analytics dashboard — clean, dark & professional.
-</p>
