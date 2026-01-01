@@ -53,13 +53,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivamSonawane2003&theme=github_dark" width="32%"/>
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShivamSonawane2003&theme=darkhub&no-frame=true&margin-w=10"/>
-</p>
 
 ---
 
