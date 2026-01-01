@@ -1,6 +1,14 @@
 <h1 align="center">👋 Hey Everyone, I'm Shivam</h1>
 <h3 align="center"> Data Analyst | Data Scientist | Machine Learning | Generative AI</h3>
 
+<a href="https://shivamsonawane2003.github.io/ShivamSonawane2003_portfolio/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black"
+    alt="Portfolio"
+  />
+</a>
+
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Universe!;Building+AI-powered+solutions;Turning+Data+into+Insights"
@@ -80,6 +88,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://shivamsonawane2003.github.io/ShivamSonawane2003_portfolio/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black"
+      alt="Portfolio"
+    />
+  </a>
   <a href="https://www.linkedin.com/in/shivam-sonawane-582b48346/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -93,5 +107,6 @@
     />
   </a>
 </p>
+
 
 ---
