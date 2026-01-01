@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey Everyone, I'm Shivam</h1>
-<h3 align="center">🚀 Data Scientist | Machine Learning | Generative AI</h3>
+<h3 align="center">🚀 Data Analyst |Data Scientist | Machine Learning | Generative AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2F81F7&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Universe!;Building+AI+powered+solutions;Turning+Data+into+Insights" />
