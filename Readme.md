@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2F81F7&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Universe!;Building+AI+powered+solutions;Turning+Data+into+Insights" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ShivamSonawane2003&theme=github-dark&hide_border=true" width="48%"/>
 </p>
 
 ---
