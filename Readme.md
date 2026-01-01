@@ -1,12 +1,11 @@
 <h1 align="center">👋 Hey Everyone, I'm Shivam</h1>
 <h3 align="center"> Data Analyst | Data Scientist | Machine Learning | Generative AI</h3>
 
-<a href="https://shivamsonawane2003.github.io/ShivamSonawane2003_portfolio/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black"
-    alt="Portfolio"
-  />
-</a>
+<p align="center">
+  🌐 <a href="https://shivamsonawane2003.github.io/ShivamSonawane2003_portfolio/" target="_blank">
+  <b>View My Portfolio</b></a>
+</p>
+
 
 
 <p align="center">
