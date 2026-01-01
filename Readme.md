@@ -82,37 +82,32 @@
 
 ---
 
+
 ## ⭐ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ShivamSonawane2003/RAG-Based-Document-QA-System">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=RAG-Based-Document-QA-System&theme=github_dark&hide_border=true"
-      alt="RAG Document Q&A System"
-    />
-  </a>
-  <a href="https://github.com/ShivamSonawane2003/Superlative-Classification-Model">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=Superlative-Classification-Model&theme=github_dark&hide_border=true"
-      alt="Superlative Classification Model"
-    />
-  </a>
-</p>
+### 🧠 AI & Machine Learning
+- **🔍 RAG Document Q&A System**  
+  FastAPI-based Retrieval-Augmented Generation system using FAISS to answer questions from private documents with reduced hallucinations.  
+  **Tech:** RAG · LLMs · FastAPI · FAISS · NLP  
+  🔗 https://github.com/ShivamSonawane2003/RAG-Based-Document-QA-System
 
-<p align="center">
-  <a href="https://github.com/ShivamSonawane2003/Online_Course_Recommendation_System">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=Online_Course_Recommendation_System&theme=github_dark&hide_border=true"
-      alt="Online Course Recommendation System"
-    />
-  </a>
-  <a href="https://github.com/ShivamSonawane2003/Predictive-Maintenance-for-HVAC-Pumps">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSonawane2003&repo=Predictive-Maintenance-for-HVAC-Pumps&theme=github_dark&hide_border=true"
-      alt="Predictive Maintenance for HVAC Pumps"
-    />
-  </a>
-</p>
+- **🏆 Superlative Classification Model**  
+  Object detection and superlative classification system (largest, most expensive, highest quality) using deep learning models.  
+  **Tech:** YOLO · Faster R-CNN · TensorFlow · PyTorch · OpenCV  
+  🔗 https://github.com/ShivamSonawane2003/Superlative-Classification-Model
+
+---
+
+### 📊 Data Science & Recommendation Systems
+- **🎓 Online Course Recommendation System**  
+  Personalized course recommendation engine using collaborative and content-based filtering with performance evaluation metrics.  
+  **Tech:** Python · Pandas · Scikit-learn · Streamlit  
+  🔗 https://github.com/ShivamSonawane2003/Online_Course_Recommendation_System
+
+- **⚙️ Predictive Maintenance for HVAC Pumps**  
+  Time-series–driven failure prediction system using sensor data to reduce downtime and optimize maintenance.  
+  **Tech:** Random Forest · XGBoost · Feature Engineering · Streamlit  
+  🔗 https://github.com/ShivamSonawane2003/Predictive-Maintenance-for-HVAC-Pumps
 
 
 
