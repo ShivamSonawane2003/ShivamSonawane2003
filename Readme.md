@@ -74,11 +74,6 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamSonawane2003&theme=github_dark"
     alt="Most Commit Language"
   />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivamSonawane2003&theme=github_dark"
-    alt="Stats"
-  />
-</p>
 
 ---
 
